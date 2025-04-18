@@ -10,6 +10,11 @@ A simple yet secure password generator that creates strong, random passwords for
 - ✅ User-friendly interface
 - ✅ Built using HTML, CSS, and JavaScript for a seamless user experience
 
+### 🌐 Live Demo / Website
+
+🔗 **Play / View the Project Here**: [https://your-website-link.com]([https://your-website-link.com](https://akpassword-generator.netlify.app/))
+
+
 ## 🚀 Installation
 ### Clone the repository
 ```bash
